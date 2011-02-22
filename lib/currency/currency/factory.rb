@@ -92,7 +92,7 @@ class Currency::Currency::Factory
       :CAD => {:symbol => '$',    :symbol_html => '&#36;'},
       :CHF => {:symbol => 'CHF',  :symbol_html => '&#67;&#72;&#70;'},
       :CLP => {:symbol => '$',    :symbol_html => '&#36;'},
-      :CNY => {:symbol => '¥',    :symbol_html => '&#165;'},
+      :CNY => {:symbol => '元',    :symbol_html => '&#20803;'},
       :COP => {:symbol => '$',    :symbol_html => '&#36;'},
       :CRC => {:symbol => '₡',    :symbol_html => '&#8353;'},
       :CUP => {:symbol => '₱',    :symbol_html => '&#8369;'},
